@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bowlby+One&display=swap');
+/* Color Theme Swatches in Hex */
+.port-#2-1-hex { color: #1F3A42; }
+.port-#2-2-hex { color: #96BFDB; }
+.port-#2-3-hex { color: #51638F; }
+.port-#2-4-hex { color: #321842; }
+.port-#2-5-hex { color: #6B5B8A; }
 
 *{
     font-family: Helvetica, Arial, sans-serif;
@@ -7,7 +13,7 @@
 body{
     width: 960px;
     margin: 0 auto;
-    background-color: bisque;
+    background-color: #96BFDB;
 }
 h1{
     font-family: 'Bowlby One';
@@ -15,7 +21,7 @@ h1{
     font-weight: normal;
     /*font-size: 200px;
     line-height: 313px;*/
-    color: #880000;
+    color: #321842;
 }
 #content{
     overflow: auto;
